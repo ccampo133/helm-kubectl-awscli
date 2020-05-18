@@ -2,7 +2,7 @@
 
 ![Build master](https://github.com/ccampo133/helm-kubectl-awscli/workflows/Build%20master/badge.svg)
 
-Docker Hub image with Helm, Kubectl, and the AWS CLI on top of Alpine Linux with Bash
+Docker Hub image with [Helm](https://helm.sh/), [Kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/), and the [AWS CLI](https://aws.amazon.com/cli/) on top of [Alpine Linux](https://www.alpinelinux.org/) with Bash
 
 Based on https://github.com/dtzar/helm-kubectl
 
